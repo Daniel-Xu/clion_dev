@@ -10,3 +10,7 @@ container for C++ development environment
 
 Now you have a `C++` dev container running, you can use user `debugger` and port `7776`
 to get into the container. Password is `hacker`. Enjoy!
+
+# Reference
+
+https://github.com/shuhaoliu/docker-clion-dev
